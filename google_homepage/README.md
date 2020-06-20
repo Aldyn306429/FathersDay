@@ -1,1 +1,0 @@
-Currently going to remake the google homescreen 
